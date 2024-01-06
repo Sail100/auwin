@@ -1,1 +1,1 @@
-ladstring(game:HttpGet("https://raw.githubusercontent.com/Sail100/auwin/main/Main.lua"))()
+ladstring(game:HttpGet("https://raw.githubusercontent.com/Sail100/auwin/main/mainscript"))()
